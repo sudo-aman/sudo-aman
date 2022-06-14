@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **javascript technologies**
 
-- 🌱 I’m currently learning **Golang, **
+- 🌱 I’m currently learning **Golang, devops **
 
 - 💬 Ask me about **javascript, databases.**
 
