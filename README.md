@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, devops **
 
-- 💬 Ask me about **javascript, databases.**
+- 💬 Ask me about **javascript, databases, PHP.**
 
 - 📫 How to reach me **amansingh564@gmail.com**
 
